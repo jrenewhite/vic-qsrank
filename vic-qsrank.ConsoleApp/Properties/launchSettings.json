@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "vic-qsrank.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--input-file C:\\Users\\jrenewhite\\source\\repos\\ScopusScrapper\\Datasets\\QSRanking.arff"
+    }
+  }
+}

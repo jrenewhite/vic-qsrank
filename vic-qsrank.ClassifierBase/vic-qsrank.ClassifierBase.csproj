@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>vic_qsrank.ClassifierBase</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ArffTools" Version="1.1.2" />
+    <PackageReference Include="Colorful.Console" Version="1.2.9" />
+  </ItemGroup>
+
+</Project>
